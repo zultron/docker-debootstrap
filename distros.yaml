@@ -1,0 +1,11 @@
+wheezy-rpi:
+  codename: wheezy
+  arch: armv6l
+  mirror: http://archive.raspbian.org/raspbian/
+  gpgkey: http://archive.raspbian.org/raspbian.public.key
+
+trusty-armv7l:
+  codename: trusty
+  arch: armv7l
+  mirror: http://ports.ubuntu.com/ubuntu-ports/
+
